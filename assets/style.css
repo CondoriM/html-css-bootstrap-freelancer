@@ -1,0 +1,13 @@
+:root{
+    --bg-first-color: #30d290;
+    --bg-second-color: #
+}
+
+.bg_color_f{
+    background-color: var(--bg-first-color);
+}
+
+/*utility*/
+img{
+    width: 100%;
+}
