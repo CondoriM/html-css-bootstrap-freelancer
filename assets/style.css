@@ -1,13 +1,25 @@
 :root{
     --bg-first-color: #30d290;
-    --bg-second-color: #
+    --bg-second-color: #5c6e8e;
 }
 
 .bg_color_f{
     background-color: var(--bg-first-color);
 }
 
+.bg_color_s{
+    background-color: var(--bg-second-color);
+}
+
 /*utility*/
 img{
     width: 100%;
+}
+
+.border_r{
+    border-radius: 50%;
+    border: 2px solid;
+}
+.t_color_g{
+    color: var(--bg-first-color);
 }
